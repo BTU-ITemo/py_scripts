@@ -49,7 +49,7 @@ def find_seat():
         else:
             print(f"Seat {seat_name} does not exist in carriage {carriage_number}.")
     else:
-        print(f"Carriage {carriage_number} does not exist.")
+        print(f"Carriage {carriage_number} does not exist!")
 
 # Start of the program
 find_seat()
